@@ -1,4 +1,4 @@
-# [<img src="readme-assets/logo.png"> Fill the Square](https://ryanbalieiro.github.io/fill-the-square/) by Saad Farah
+# [<img src="readme-assets/logo.png"> Fill the Square](https://farah1902.github.io/fill-the-square/) by Saad Farah
 
 A fully responsive, open-source canvas game built with JavaScript and powered by the Cocos2D-JS framework. It's lightweight, adjusts to any screen size, and features intuitive gameplay, making it easy to pick up and enjoy.
 
